@@ -6,6 +6,7 @@
     --dark-color: #171717;
     --light-dark-color:blue;
     --yellow-color: #d4aa11;
+       --main-color: #d4aa11;
 }
 *{
     padding: 0;
@@ -296,10 +297,7 @@ img{
     }
 }
 
-  :root {
-   
-    --main-color: yellow;
-}
+  
         .btn{
     display: inline-block;
     padding: 1rem 2.8rem;
